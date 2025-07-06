@@ -1,4 +1,4 @@
-# DSA-CAPSTONE-AMAZON-REVIEWS
+# DSA-CAPSTONE-AMAZON-REVIEWS PROJECT
 
 ## Project Overview
 This project focuses on analyzing product name, category on Amazon to gain insights into customer behaviors, product performance and overall generated reviews available. Amazon provides a rich dataset that reflects real world customer experiences across various product categories.
